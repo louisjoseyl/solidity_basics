@@ -27,8 +27,4 @@ contract SimpleStorage {
         nameToFavNum[_name] = _favNum;
     }
 
-
 }
-contract SimpleStorage2 {}
-contract SimpleStorage3 {}
-contract SimpleStorage4 {}
